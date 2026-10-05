@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Information-Protection-Rights-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Information-Protection-Rights-Management?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Information-Protection-Rights-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Information-Protection-Rights-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Information-Protection-Rights-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Information-Protection-Rights-Management?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -63,7 +63,7 @@ This repository tracks leading **SaaS platforms** and **open-source projects** f
 
 Below are top open-source tools, cryptographic libraries, policy engines, and secure file storage frameworks used to build custom data-centric protection architectures and rights enforcement workflows.
 
-| Project / Repository | Star Count | Category | Description & Capabilities |
+| Project / Repository | Stars_Count | Category | Description & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[OpenSSL](https://github.com/openssl/openssl)** | [<img src="https://img.shields.io/github/stars/openssl/openssl?style=social&color=white" alt="OpenSSL Stars" />](https://github.com/openssl/openssl/stargazers) | Cryptographic Toolkit | De-facto enterprise cryptographic library implementing SSL/TLS, AES file encryption, PKI key management, and cryptographic standards. |
 | **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** | [<img src="https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white" alt="OPA Stars" />](https://github.com/open-policy-agent/opa/stargazers) | Policy Engine | General-purpose policy engine enforcing fine-grained usage policies and attribute-based access control (ABAC) across data pipelines. |
